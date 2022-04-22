@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleMilos
 - 👀 I’m interested in learning computer science!
-- 🌱 I’m currently learning Python, Java, Css andJavascript
+- 🌱 I’m currently learning Python, Java, Css and Javascript
 
 
 <!---
