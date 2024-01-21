@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AleMilos
-- 👀 I’m interested in learning computer science!
-- 🌱 I’m working as a react frontend developer, and learning day by day.
-- My next goal is to explore the backend world, and who knows what comes next!
+👋 Hi, I’m Alessandro Milos, aka `alemilos`
+
+I'm a 🤓 CS Student, React Developer 🧑🏻‍💻, Passionate Reader 📚 and... much more.
+
 
 
 <!---
