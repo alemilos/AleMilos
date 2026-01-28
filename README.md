@@ -2,6 +2,7 @@
 
 I'm a 🤓 CS Student, React Developer 🧑🏻‍💻, Passionate Reader 📚 and... much more.
 
+I've recently released an ebook reader, you can find it at wizread.io
 
 
 <!---
