@@ -1,6 +1,6 @@
 Hi, I’m Alessandro Milos, aka `alemilos`
 
-I'm a CS Bachelor student and passionate reader.
+I'm a CS student and passionate reader.
 
 I'm the developer behind [Wizread](https://wizread.io/).
 
