@@ -1,8 +1,7 @@
-👋 Hi, I’m Alessandro Milos, aka `alemilos`
+Hi, I’m Alessandro Milos, aka `alemilos`
+I'm a CS Bachelor student and passionate reader.
 
-I'm a 🤓 CS Student, React Developer 🧑🏻‍💻, Passionate Reader 📚 and... much more.
-
-I've recently released an ebook reader, try it! [Wizread](https://wizread.io/).
+I'm the developer behind [Wizread](https://wizread.io/).
 
 
 <!---
